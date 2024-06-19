@@ -1,3 +1,3 @@
 # KitManager
 
-Programa de controle de Kit para integração com plataformas que não possuem esta funcionalidade
+Kit control system for platforms that do not have this functionality
